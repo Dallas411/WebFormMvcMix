@@ -1,3 +1,5 @@
+Basicaly you can mix MVC and WebForm by flagging functionality in the initialization wizard.
+
 #Add MVC to existing WebForm Project
 
 1) create the folder Controllers
